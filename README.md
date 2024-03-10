@@ -10,7 +10,7 @@ This game features gravity, orbital motion and collision of objects.
 
 ## Controls
 * Use <kbd>&larr;</kbd> and <kbd>&rarr;</kbd> to steer your spacecraft.
-* Hold <kbd>Space</kbd> to accelerate your spacecraft in the pointed direction.
+* Hold <kbd>Space</kbd> to accelerate your spacecraft in the pointing direction.
 
 ## Screenshots
 ![Screenshot 2024-03-10 204508](https://github.com/shree675/Proxima14/assets/58718144/3da71a19-4a6f-41db-b1bc-b7df99a591ec)
